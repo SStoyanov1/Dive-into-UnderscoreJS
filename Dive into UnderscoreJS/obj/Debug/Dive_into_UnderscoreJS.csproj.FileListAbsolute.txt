@@ -1,0 +1,6 @@
+c:\users\stoyan\documents\visual studio 2013\Projects\Dive into Underscore.js\Dive into UnderscoreJS\bin\Dive_into_UnderscoreJS.dll.config
+c:\users\stoyan\documents\visual studio 2013\Projects\Dive into Underscore.js\Dive into UnderscoreJS\bin\Dive_into_UnderscoreJS.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Dive into Underscore.js\Dive into UnderscoreJS\bin\Dive_into_UnderscoreJS.pdb
+c:\users\stoyan\documents\visual studio 2013\Projects\Dive into Underscore.js\Dive into UnderscoreJS\obj\Debug\Dive_into_UnderscoreJS.csprojResolveAssemblyReference.cache
+c:\users\stoyan\documents\visual studio 2013\Projects\Dive into Underscore.js\Dive into UnderscoreJS\obj\Debug\Dive_into_UnderscoreJS.dll
+c:\users\stoyan\documents\visual studio 2013\Projects\Dive into Underscore.js\Dive into UnderscoreJS\obj\Debug\Dive_into_UnderscoreJS.pdb
